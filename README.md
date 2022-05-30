@@ -1,4 +1,4 @@
-# danglink
+# Danglink Application
 
 A new Flutter project.
 
